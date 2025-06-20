@@ -8,7 +8,7 @@
 
 **Tokugen AI** is a next-generation, AI-augmented content creation and optimization system tailored for **Instagram** and **X (formerly Twitter)**. By blending advanced multimodal AI models with seamless social platform integration, Tokugen empowers digital creators, solopreneurs, and brand storytellers to elevate their content strategy in real time.
 
-This repository outlines the architecture, capabilities, and roadmap for the Tokugen ecosystem — including its creator tools, social integration modules, AI engines, and upcoming decentralized utility via the \$YOSH token on Solana.
+This repository outlines the architecture, capabilities, and roadmap for the Tokugen ecosystem — including its creator tools, social integration modules, AI engines, and upcoming decentralized utility via the \$Tokugen token on Solana.
 
 ---
 
@@ -49,7 +49,7 @@ The Tokugen stack leverages:
 
 ---
 
-## 🪙 \$YOSH Token Launch (via Pump.fun)
+## 🪙 \$Tokugen Token Launch (via Pump.fun)
 
 To kickstart community involvement, Tokugen AI is launching a native utility token on **Solana** via [Pump.fun](https://pump.fun).
 
@@ -114,7 +114,7 @@ Code: [`/ai/image-strategies`](./ai/image-strategies)
 ## 🗺️ Roadmap
 
 ✅ Beta rollout to selected creator cohorts
-🚀 Public \$YOSH token launch via Pump.fun
+🚀 Public \$Tokugen token launch via Pump.fun
 🧪 AI enhancement SDK for devs and social tools
 📱 Mobile app (Q3 2025)
 💸 Creator revenue sharing via on-chain metrics (Q4 2025)
